@@ -32,7 +32,7 @@
 
 ## Развёртывание
 1. Клонировать репозиторий:
-   git clone https://github.com/<логин>/stolik-online.git
+   git clone https://github.com/qupeace/CT0Jluk-0HJIauH.git
 2. Создать файл окружения и заполнить значения:
    cp .env.example .env
 3. Запустить систему:
